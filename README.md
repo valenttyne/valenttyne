@@ -20,7 +20,7 @@
 - 💻 **Engenheiro de Software Full Stack** (backend & frontend)
 - 🧱 **Arquiteto de Sistemas** com experiência em microsserviços e integrações
 - 🚀 **Especialista em Performance** e otimização de larga escala
-- 📍 **Baseado no Brasil** (Minas Gerais) - Disponível para projetos remotos
+- 📍 **Baseado no Brasil** (Minas Gerais)
 
 > - [ORCID: 0000-0003-2296-396X](https://orcid.org/0000-0003-2296-396X)
 > - [ResearcherID: Y-1997-2018](https://www.webofscience.com/wos/author/record/Y-1997-2018)

@@ -12,11 +12,24 @@
 
 ## 🤓 Sobre mim
 
+> Eu sou um gestor de TI, engenheiro de software com forte raizes em tecnologia e automação. Atualmente mestrando em Direção Estratégica e Engenharia de Software e liderando equipes de IT em desenvolvimento e sustentação.
+
 - 👨‍💼 **Gerente de TI** com foco em governança, segurança e alta disponibilidade
 - 💻 **Engenheiro de Software Full Stack** (backend & frontend)
 - 🧱 **Arquiteto de Sistemas** com experiência em microsserviços e integrações
 - 🚀 **Especialista em Performance** e otimização de larga escala
 - 📍 **Baseado no Brasil** (Minas Gerais) - Disponível para projetos remotos
+
+> - [ORCID: 0000-0003-2296-396X](https://orcid.org/0000-0003-2296-396X)
+> - [ResearcherIDY-1997-2018](https://www.webofscience.com/wos/author/record/Y-1997-2018)
+
+### Degrees
+- Pós Engenharia de Software
+- Pós Gestão de Projetos
+- MBA Gestão de Pessoas e Liderança Organizacional
+- Pós Neurolingística
+- Pós Matemática
+- Graduação Gestão de Tecnologia da Informação
 
 ---
 

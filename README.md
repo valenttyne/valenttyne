@@ -1,7 +1,9 @@
 # 👋 Olá, eu sou o Edson Pereira Santos
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/epsantos/)
-[![Site](https://img.shields.io/badge/site&research-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://www.edson.eti.br/)
+[![Site](https://img.shields.io/badge/site_&_research-FF5722?style=for-the-badge)](https://www.edson.eti.br/)
+[![ORCID](https://img.shields.io/badge/ORCID-ffd7f5?style=for-the-badge)]((https://orcid.org/0000-0003-2296-396X))
+[![ResearcherID](https://img.shields.io/badge/ResearcherID-ffd7f5?style=for-the-badge)]((https://www.webofscience.com/wos/author/record/Y-1997-2018))
 
 | ![https://www.edson.eti.br/logo-edson-128x128.png](https://www.edson.eti.br/logo-edson-128x128.png)  | Com mais de 20 anos de experiência em **Tecnologia da Informação**, atuo como Gerente de TI e Engenheiro de Software Full Stack, liderando times, arquitetando soluções escaláveis e automatizando processos de negócio. |
 |---------|----------|

@@ -21,14 +21,14 @@
 - 📍 **Baseado no Brasil** (Minas Gerais) - Disponível para projetos remotos
 
 > - [ORCID: 0000-0003-2296-396X](https://orcid.org/0000-0003-2296-396X)
-> - [ResearcherIDY-1997-2018](https://www.webofscience.com/wos/author/record/Y-1997-2018)
+> - [ResearcherID: Y-1997-2018](https://www.webofscience.com/wos/author/record/Y-1997-2018)
 
 ### Degrees
-- Pós Engenharia de Software
-- Pós Gestão de Projetos
+- Pós-graduação em Engenharia de Software
+- Pós-graduação em Gestão de Projetos
 - MBA Gestão de Pessoas e Liderança Organizacional
-- Pós Neurolingística
-- Pós Matemática
+- Pós-graduação em Neurolingística
+- Pós-graduação em Matemática
 - Graduação Gestão de Tecnologia da Informação
 
 ---
@@ -176,10 +176,10 @@ const dataInfra = {
 ├── PHP & Laravel (Expert)
 ├── Node.js & TypeScript (Expert)
 ├── React & Next.js (Advanced)
-├── No SQl e SQL (Expert) [Ex: MongoDB, MySQL, AWS, Cache, Postgre, Firebase, Supabase e outros]
+├── NoSQL e SQL (Expert) [Ex: MongoDB, MySQL, AWS, Cache, PostgreSQL, Firebase, Supabase e outros]
 ├── Docker & CI/CD (Advanced)
 └── Performance Optimization (Expert)
-└── IA Generativa : Integração, Prompt , Soluções in-system, Chatbot, MCP Server e RPA (Expert) [Ex: OpenIA, Claude, N8N, Manus etc.]
+└── IA Generativa : Integrações com sistemas e app, prompts, soluções in-system, Chatbot, MCP Server e RPA (Expert) [Ex: OpenIA, Claude, N8N, Manus etc.]
 
 📊 PROJECT IMPACT:
 ├── 🏗️ 10+ sistemas em produção
@@ -192,7 +192,7 @@ const dataInfra = {
 
 ## 🎯 **Interesses Atuais & Foco**
 
-- 🤖 **IA, Machine Learning e RPA Stacks** para automação de processos e inovações
+- 🤖 **IA, Machine Learning e stacks de RPA** para automação de processos e inovações
 - ⚡ **High Performance Computing** com Node.js
 - 🏗️ **Microservices Architecture** e Event-Driven Design
 - 📊 **Real-time Analytics** e Dashboards

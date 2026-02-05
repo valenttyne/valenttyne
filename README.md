@@ -14,7 +14,7 @@
 
 ## 🤓 Sobre mim
 
-> Eu sou um gestor de TI, engenheiro de software com forte raizes em tecnologia e automação. Atualmente mestrando em Direção Estratégica e Engenharia de Software e liderando equipes de IT em desenvolvimento e sustentação.
+*Eu sou gestor de TI e engenheiro de software, com fortes raízes em tecnologia e automação. Atualmente, sou mestrando em Direção Estratégica e Engenharia de Software e lidero equipes de TI em desenvolvimento e sustentação.*
 
 - 👨‍💼 **Gerente de TI** com foco em governança, segurança e alta disponibilidade
 - 💻 **Engenheiro de Software Full Stack** (backend & frontend)
@@ -31,7 +31,7 @@
 - MBA Gestão de Pessoas e Liderança Organizacional
 - Pós-graduação em Neurolingística
 - Pós-graduação em Matemática
-- Graduação Gestão de Tecnologia da Informação
+- Graduação em Gestão de Tecnologia da Informação
 
 ---
 
@@ -180,8 +180,8 @@ const dataInfra = {
 ├── React & Next.js (Advanced)
 ├── NoSQL e SQL (Expert) [Ex: MongoDB, MySQL, AWS, Cache, PostgreSQL, Firebase, Supabase e outros]
 ├── Docker & CI/CD (Advanced)
-└── Performance Optimization (Expert)
-└── IA Generativa : Integrações com sistemas e app, prompts, soluções in-system, Chatbot, MCP Server e RPA (Expert) [Ex: OpenIA, Claude, N8N, Manus etc.]
+├── Performance Optimization (Expert)
+└── Machine Learning, IA generativa e sistemas de RPA: integrações com sistemas e apps, prompts, soluções in-system, chatbots, MCP Server e RPA (Expert)
 
 📊 PROJECT IMPACT:
 ├── 🏗️ 10+ sistemas em produção
